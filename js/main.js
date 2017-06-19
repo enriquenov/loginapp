@@ -43,9 +43,9 @@ login.addEventListener("click", function() {
 
   } else {
     console.log("NO!!!");
-    p.textContent = logins;
+    p.textContent = "Username or password don't match!";
     p.nameClass = "red";
-  };
+  }
 
 });
 
