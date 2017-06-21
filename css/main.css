@@ -22,6 +22,7 @@ div.notification p {
   font-size: 14px;
   color: white;
   line-height: 32px;
+  border-radius: 2px;
 }
 
 p.green {
